@@ -29,8 +29,8 @@ Create a virtual environment:
 python3 -m venv myenv
 ```
 
-```bash
 Activate the virtual environment:
+```bash
 source myenv/bin/activate
 ```
 
